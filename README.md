@@ -1,5 +1,8 @@
 # face-age-gender-detection
 
+### OBJECTIVE
+Using CNN we train a model and use to to find age and gender of a person from their image
+
 ### DATA SET
 UTKFace dataset from kaggle
 
